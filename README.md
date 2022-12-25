@@ -1,5 +1,5 @@
 # cda_pre
-[English](https://github.com/miner233/cda_pre/blob/main/README.md) | 简体中文
+English | [简体中文](https://github.com/miner233/cda_pre/blob/main/README-zh.md)
 
 ## Overview
 CDA.net the Insider Preview 2 repository<br>
