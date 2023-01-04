@@ -8,5 +8,5 @@ View the CDA.net 2 changelog and update history (Chinese olny) at [here](https:/
 
 ## link
 - CDA.net Official version: https://miner233.github.io/cda
-- CDA.net Insider Preview Program: https://miner233.github.io/cda
+- CDA.net Insider Preview Program: https://miner233.github.io/cda_pre
 - CDA.net 2 Changelog and UpdateHistory: https://github.com/miner233/cda_2/releases
