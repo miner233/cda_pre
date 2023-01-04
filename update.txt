@@ -1,0 +1,2 @@
+cd /d H:\Project\cda_pre\
+mkdocs gh-deploy
