@@ -3,9 +3,8 @@ English | [简体中文](https://github.com/miner233/cda_pre/blob/main/README-zh
 
 ## Overview
 CDA.net the Insider Preview 2 repository<br>
-CDA.net Insider Preview is deployed in the [gh-pages branch](https://github.com/miner233/cda_pre/tree/gh-pages). <br>
-CDA.net source code is stored in the main branch.
-View the CDA.net 2 changelog and update history at [here](https://github.com/miner233/cda_2/releases).
+All CDA.net Insider Preview code is stored in the [gh-pages branch](https://github.com/miner233/cda_pre/tree/gh-pages). <br>
+View the CDA.net 2 changelog and update history (Chinese olny) at [here](https://github.com/miner233/cda_2/releases).
 
 ## link
 - CDA.net Official version: https://miner233.github.io/cda
